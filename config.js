@@ -1,12 +1,12 @@
 // config.js
 module.exports = {
-    TELEGRAM_TOKEN: '8068772257:AAFltbbJle93PxQyV6NJ0Ip9rTvuIH99kYs',
-    OWNER_ID: 7149711596, // Ganti dengan ID Telegram kamu
-    CHANNEL_ID: '@allinfopixel', // Contoh: @infobotkeren
+    TELEGRAM_TOKEN: '8552658390:AAFcyksDhMqA-y8nnqmw1exX1nI2j2KlSNA',
+    OWNER_ID: 8153272738, // Ganti dengan ID Telegram kamu
+    CHANNEL_ID: '@mortalflorx', // Contoh: @infobotkeren
     PROFILE_PHOTO_URL: 'https://files.catbox.moe/gsyfb0.jpg', // Ganti dengan URL gambar kamu
-    EMAIL_SENDER: 'mmaakklleehh@gmail.com', // Email Sender
-    EMAIL_PASSWORD: '@Farkyy238', // App Password 16 digit
-    COOLDOWN_DURATION: 300000, // 5 menit (300000 ms)
+    EMAIL_SENDER: 'albaniasgu@gmail.com', // Email Sender
+    EMAIL_PASSWORD: 'psvohxjrwyxccupv', // App Password 16 digit
+    COOLDOWN_DURATION: 1, // 5 menit (300000 ms)
     MT_FILE: 'mt_texts.json',
     PREMIUM_FILE: 'premium_users.json',
     // --- File Database Lokal ---
